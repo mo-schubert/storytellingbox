@@ -11,4 +11,4 @@ Die folgenden Elemente sind für den Fun Park verfügbar:
 
 [observationwheel]: https://github.com/mo-schubert/storytellingbox/blob/master/FunPark/ObservationWheel.png { width: 200px; } "Fun Park - Observation Wheel"
 
-[rollercoaster]: https://github.com/mo-schubert/storytellingbox/blob/master/FunPark/RollerCoaster.png =200x "Fun Park - Roller Coaster"
+[rollercoaster]: https://github.com/mo-schubert/storytellingbox/blob/master/FunPark/RollerCoaster.png {: width="36px"}
