@@ -1,6 +1,4 @@
-# Fun Park
-
-Die folgenden Elemente sind für den Fun Park verfügbar:
+# Überblick über die Elemente für den Fun Park
 
 ![carousel {: width=20px}][carousel]
 ![observationwheel {: width=20px}][observationwheel]
