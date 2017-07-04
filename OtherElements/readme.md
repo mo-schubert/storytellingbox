@@ -8,9 +8,9 @@ Alle Elemente auf dieser Seite konnten noch keiner anderen Kategorie zugeordnet 
 ![thumbup][thumbup]
 
 
-[eyes]: https://github.com/mo-schubert/storytellingbox/blob/master/OtherElements/Eyes.png "Other Elements - Eyes"
+[eyes]: https://github.com/mo-schubert/storytellingbox/blob/master/OtherElements/eyes.png "Other Elements - Eyes"
 
-[telephone]: https://github.com/mo-schubert/storytellingbox/blob/master/OtherElements/Telephone.png "Other Elements - Telephone"
+[telephone]: https://github.com/mo-schubert/storytellingbox/blob/master/OtherElements/telephone.png "Other Elements - Telephone"
 
 [thumbdown]: https://github.com/mo-schubert/storytellingbox/blob/master/OtherElements/ThumbDown.png "Other Elements - Thumb Down"
 
