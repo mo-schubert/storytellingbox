@@ -8,7 +8,7 @@ Die Story Telling Box ist eine physische Ausgabe des [SAP Scenes Set](https://ex
 Die Erweiterungen sind derzeit in die folgenden Kategorien gegliedert:
 * [Fun Park](https://github.com/mo-schubert/storytellingbox/blob/master/FunPark/readme.md): diese Kategorie beinhaltet zusätzliche Elemente für einen Fun Park (z.B. Karusell, Riesenrad)
 * [Characters](https://github.com/mo-schubert/storytellingbox/blob/master/Characters/readme.md): diese Kategorie beinhaltet zusätzliche Personen
-* Other Elements: diese Kategorie beinhaltet zusätzliche Elemente, für die wir noch keine andere Kategorie gefunden haben
+* [Other Elements](https://github.com/mo-schubert/storytellingbox/blob/master/OtherElements/readme.md): diese Kategorie beinhaltet zusätzliche Elemente, für die wir noch keine andere Kategorie gefunden haben
 
 ## Lizenz
 
