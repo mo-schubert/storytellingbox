@@ -6,7 +6,8 @@ Wir können uns Geschichten besonders gut merken. Noch viel besser können wir d
 Die Story Telling Box ist eine physische Ausgabe des [SAP Scenes Set](https://experience.sap.com/designservices). Dieses Set haben wir mit ein paar Elementen erweitert. Diese findet ihr in diesem Projekt.
 
 Die Erweiterungen sind derzeit in die folgenden Kategorien gegliedert:
-* Fun Park: diese Kategorie beinhaltet zusätzliche Elemente für einen Fun Park (z.B. Karusell, Riesenrad)
+* [Fun Park](https://github.com/mo-schubert/storytellingbox/blob/master/FunPark/readme.md): diese Kategorie beinhaltet zusätzliche Elemente für einen Fun Park (z.B. Karusell, Riesenrad)
+* [Characters](https://github.com/mo-schubert/storytellingbox/blob/master/Characters/readme.md): diese Kategorie beinhaltet zusätzliche Personen
 * Other Elements: diese Kategorie beinhaltet zusätzliche Elemente, für die wir noch keine andere Kategorie gefunden haben
 
 ## Lizenz
